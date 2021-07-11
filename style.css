@@ -75,3 +75,15 @@ li a:hover {
     width: 1000px;
     height: 900px;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h2 {
+    font-size: 50px;
+}
